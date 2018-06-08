@@ -8,7 +8,8 @@ INSTALACION:
 4-Instalar Sass
 5-Crear archivos index.html, app.js, style.scss.
 
-
+ESTRUCTURA:
 
 6-codigo localhost con express.
 7-estructura basica html.
+
