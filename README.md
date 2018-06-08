@@ -1,5 +1,6 @@
 recopilaciones-week
 
+INSTALACION:
 
 1-instalar "express" y "express-handlebars".
 2-Crear un archivo install.js.	
@@ -7,3 +8,6 @@ recopilaciones-week
 4-Instalar Sass
 5-Crear archivos index.html, app.js, style.scss.
 
+
+
+6-
