@@ -1,79 +1,10 @@
 /* line 1, ../sass/style.scss */
-header {
-  margin-top: 20px;
+article {
+  padding-bottom: 50px;
 }
 
-/* line 5, ../sass/style.scss */
+/* line 4, ../sass/style.scss */
 i {
   color: blue;
-}
-
-/* line 9, ../sass/style.scss */
-#lista {
-  margin-top: 150px;
-  margin-right: 250px;
-  margin-bottom: 200px;
-}
-
-/* line 16, ../sass/style.scss */
-#f-1 div {
-  background-color: blue;
-  content: "";
-  padding-top: 50px;
-}
-
-/* line 24, ../sass/style.scss */
-#f-2 div {
-  background-color: red;
-  content: "";
-  padding-top: 50px;
-  margin-top: 10px;
-}
-
-/* line 33, ../sass/style.scss */
-#f-3 div {
-  background-color: yellow;
-  content: "";
-  padding-top: 50px;
-  margin-top: 10px;
-}
-
-/* line 42, ../sass/style.scss */
-#f-4 div {
-  background-color: #ff9100;
-  content: "";
-  padding-top: 50px;
-  margin-top: 10px;
-}
-
-/* line 51, ../sass/style.scss */
-#f-5 div {
-  background-color: #7bff00;
-  content: "";
-  padding-top: 50px;
-  margin-top: 10px;
-}
-
-/* line 60, ../sass/style.scss */
-#f-6 div {
-  background-color: #a0bb8b;
-  content: "";
-  padding-top: 50px;
-  margin-top: 10px;
-}
-
-/* line 69, ../sass/style.scss */
-#f-7 div {
-  background-color: #c300ff;
-  content: "";
-  padding-top: 50px;
-  margin-top: 10px;
-}
-
-/* line 78, ../sass/style.scss */
-#f-8 div {
-  background-color: #757575;
-  content: "";
-  padding-top: 50px;
-  margin-top: 10px;
+  font-size: 20px;
 }
